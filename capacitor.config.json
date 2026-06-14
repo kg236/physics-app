@@ -1,0 +1,6 @@
+{
+  "appId": "com.karam.physicsapp",
+  "appName": "قوانين الفيزياء",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
